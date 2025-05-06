@@ -1,8 +1,8 @@
-# 🧱 Arquetipo API - Node.js (v22.14.0)
+# 🧱 Arquetipo API - Node.js (v22.15.0)
 
 ## 📌 Descripción
 
-Este proyecto es una API backend desarrollada con **Node.js v22.14.0**, siguiendo una arquitectura **modular, escalable y desacoplada**, basada en los principios de **Clean Architecture** y **Hexagonal Architecture (Ports & Adapters)**.
+Este proyecto es una API backend desarrollada con **Node.js v22.15.0**, siguiendo una arquitectura **modular, escalable y desacoplada**, basada en los principios de **Clean Architecture** y **Hexagonal Architecture (Ports & Adapters)**.
 
 Incluye ejemplos reales y listos para producción con integraciones como OpenAI, SendGrid, Azure Blob Storage, manejo de cron jobs, seguridad, y mucho más.
 
