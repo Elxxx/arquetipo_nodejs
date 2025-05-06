@@ -1,0 +1,10 @@
+Copyright (c) 2025 Elias Almarza
+
+All rights reserved.
+
+This software is licensed, not sold. You may not reproduce, distribute, or create derivative works without express written permission from the author.
+
+Unauthorized use, distribution, or reverse engineering is prohibited and will be prosecuted under applicable law.
+
+For professional licensing inquiries: eliasalmarza25@gmail.com
+
