@@ -1,5 +1,5 @@
 // Importación de dependencias necesarias
-const { sql, pool } = require('../../../config/db/db_sql'); // Configuración de la base de datos (pool de conexiones)
+const { sql, pool } = require('../../../config/db/sql/db_sql'); // Configuración de la base de datos (pool de conexiones)
 const { obtenerFeriados } = require('../../../infrastructure/external/feriados/diasHabiles'); // Importar la función obtenerFeriados
 const logger = require('../../../infrastructure/logger'); // Logger personalizado para registrar eventos
 

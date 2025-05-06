@@ -1,6 +1,6 @@
 // Importación de módulos y configuraciones necesarias
 const sql = require('mssql'); // Cliente de SQL Server
-const config = require('../config'); // Configuración personalizada del proyecto
+const config = require('../../config'); // Configuración personalizada del proyecto
 
 /**
  * @file Configuración de la conexión a la base de datos SQL Server.
